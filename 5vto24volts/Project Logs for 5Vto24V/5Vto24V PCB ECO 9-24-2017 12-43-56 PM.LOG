@@ -1,0 +1,57 @@
+Added Component: Designator=5Vto24V_1(5Vto24V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5Vto24V_2(5Vto24V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=5Vto24V_3(5Vto24V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PC-?(PC-104FOOTPRINT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net5Vto24V_1_2 Pin=5Vto24V_1-2
+Added Pin To Net: NetName=Net5Vto24V_1_3 Pin=5Vto24V_1-3
+Added Pin To Net: NetName=Net5Vto24V_1_2 Pin=5Vto24V_2-2
+Added Pin To Net: NetName=Net5Vto24V_2_3 Pin=5Vto24V_2-3
+Added Pin To Net: NetName=Net5Vto24V_1_2 Pin=5Vto24V_3-2
+Added Pin To Net: NetName=Net5Vto24V_3_3 Pin=5Vto24V_3-3
+Added Pin To Net: NetName=NetPC-?_H1_5 Pin=PC-?-H1_5
+Added Pin To Net: NetName=NetPC-?_H1_7 Pin=PC-?-H1_7
+Added Pin To Net: NetName=NetPC-?_H1_9 Pin=PC-?-H1_9
+Added Pin To Net: NetName=NetPC-?_H1_11 Pin=PC-?-H1_11
+Added Pin To Net: NetName=NetPC-?_H1_13 Pin=PC-?-H1_13
+Added Pin To Net: NetName=NetPC-?_H1_15 Pin=PC-?-H1_15
+Added Pin To Net: NetName=NetPC-?_H1_17 Pin=PC-?-H1_17
+Added Pin To Net: NetName=NetPC-?_H1_19 Pin=PC-?-H1_19
+Added Pin To Net: NetName=NetPC-?_H1_20 Pin=PC-?-H1_20
+Added Pin To Net: NetName=NetPC-?_H1_24 Pin=PC-?-H1_24
+Added Pin To Net: NetName=NetPC-?_H1_25 Pin=PC-?-H1_25
+Added Pin To Net: NetName=NetPC-?_H1_26 Pin=PC-?-H1_26
+Added Pin To Net: NetName=NetPC-?_H1_27 Pin=PC-?-H1_27
+Added Pin To Net: NetName=NetPC-?_H1_30 Pin=PC-?-H1_30
+Added Pin To Net: NetName=NetPC-?_H1_32 Pin=PC-?-H1_32
+Added Pin To Net: NetName=NetPC-?_H1_39 Pin=PC-?-H1_39
+Added Pin To Net: NetName=NetPC-?_H1_41 Pin=PC-?-H1_41
+Added Pin To Net: NetName=NetPC-?_H1_43 Pin=PC-?-H1_43
+Added Pin To Net: NetName=NetPC-?_H1_47 Pin=PC-?-H1_47
+Added Pin To Net: NetName=NetPC-?_H1_48 Pin=PC-?-H1_48
+Added Pin To Net: NetName=NetPC-?_H1_49 Pin=PC-?-H1_49
+Added Pin To Net: NetName=NetPC-?_H1_50 Pin=PC-?-H1_50
+Added Pin To Net: NetName=NetPC-?_H1_51 Pin=PC-?-H1_51
+Added Pin To Net: NetName=NetPC-?_H1_52 Pin=PC-?-H1_52
+Added Pin To Net: NetName=NetPC-?_H2_13 Pin=PC-?-H2_13
+Added Pin To Net: NetName=NetPC-?_H2_14 Pin=PC-?-H2_14
+Added Pin To Net: NetName=NetPC-?_H2_15 Pin=PC-?-H2_15
+Added Pin To Net: NetName=NetPC-?_H2_16 Pin=PC-?-H2_16
+Added Pin To Net: NetName=NetPC-?_H2_17 Pin=PC-?-H2_17
+Added Pin To Net: NetName=NetPC-?_H2_19 Pin=PC-?-H2_19
+Added Pin To Net: NetName=NetPC-?_H2_25 Pin=PC-?-H2_25
+Added Pin To Net: NetName=NetPC-?_H2_26 Pin=PC-?-H2_26
+Added Pin To Net: NetName=NetPC-?_H2_27 Pin=PC-?-H2_27
+Added Pin To Net: NetName=NetPC-?_H2_28 Pin=PC-?-H2_28
+Added Pin To Net: NetName=NetPC-?_H2_29 Pin=PC-?-H2_29
+Added Pin To Net: NetName=NetPC-?_H2_31 Pin=PC-?-H2_31
+Added Pin To Net: NetName=NetPC-?_H2_45 Pin=PC-?-H2_45
+Added Pin To Net: NetName=Net5Vto24V_1_P1-1 Pin=PC-?-H2_46
+Added Member To Class: ClassName=TopV4 Member=Component 5Vto24V_1 5Vto24V
+Added Member To Class: ClassName=TopV4 Member=Component 5Vto24V_2 5Vto24V
+Added Member To Class: ClassName=TopV4 Member=Component 5Vto24V_3 5Vto24V
+Added Member To Class: ClassName=TopV4 Member=Component PC-? PC-104
+Added Room: Name=TopV4
