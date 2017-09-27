@@ -1,0 +1,58 @@
+Added Component: Designator=JUMP1(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP2(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP3(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP4(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP5(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP6(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP7(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP8(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP9(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JUMP10(Jumper(DIP2))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V_1_Jump1 Pin=JUMP1-2
+Added Net: Name=+5V_1_Jump1
+Added Pin To Net: NetName=+5V_1 Pin=JUMP1-1
+Added Net: Name=+5V_1
+Added Pin To Net: NetName=+5V_2_Jump2 Pin=JUMP2-2
+Added Net: Name=+5V_2_Jump2
+Added Pin To Net: NetName=+5V_2 Pin=JUMP2-1
+Added Net: Name=+5V_2
+Added Pin To Net: NetName=+5V_3_Jump3 Pin=JUMP3-2
+Added Net: Name=+5V_3_Jump3
+Added Pin To Net: NetName=+5V_3 Pin=JUMP3-1
+Added Net: Name=+5V_3
+Added Pin To Net: NetName=+5V_5_Jump6 Pin=JUMP6-2
+Added Net: Name=+5V_5_Jump6
+Added Pin To Net: NetName=+5V_5 Pin=JUMP6-1
+Added Net: Name=+5V_5
+Added Pin To Net: NetName=+12V_1_Jump7 Pin=JUMP7-2
+Added Net: Name=+12V_1_Jump7
+Added Pin To Net: NetName=+12V_1_Jump8 Pin=JUMP8-2
+Added Net: Name=+12V_1_Jump8
+Added Pin To Net: NetName=+12V_1_Jump9 Pin=JUMP9-2
+Added Net: Name=+12V_1_Jump9
+Added Pin To Net: NetName=+12V_1_Jump10 Pin=JUMP10-2
+Added Net: Name=+12V_1_Jump10
+Added Pin To Net: NetName=+12V_1 Pin=JUMP7-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP8-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP9-1
+Added Pin To Net: NetName=+12V_1 Pin=JUMP10-1
+Added Net: Name=+12V_1
+Added Pin To Net: NetName=3V3_2_Jump4 Pin=JUMP4-2
+Added Net: Name=3V3_2_Jump4
+Added Pin To Net: NetName=3V3_2 Pin=JUMP4-1
+Added Net: Name=3V3_2
+Added Pin To Net: NetName=V_BAT_1_Jump5 Pin=JUMP5-2
+Added Net: Name=V_BAT_1_Jump5
+Added Pin To Net: NetName=V_BAT_1 Pin=JUMP5-1
+Added Net: Name=V_BAT_1
+Added Class: Name=Jumpers_rev2

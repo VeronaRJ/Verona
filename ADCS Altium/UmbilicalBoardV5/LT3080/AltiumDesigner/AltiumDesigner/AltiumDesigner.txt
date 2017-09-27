@@ -1,0 +1,12 @@
+# Created by Ultra Librarian Gold 8.2.62 Copyright © 1999-2017
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+EndFootprints
+
+StartComponents
+
+Component (Name "LT3080ET#PBF") (PartCount 0) (DesPrefix "?")
+Footprint (Name "TO-220_5T")
+EndComponent
+EndComponents

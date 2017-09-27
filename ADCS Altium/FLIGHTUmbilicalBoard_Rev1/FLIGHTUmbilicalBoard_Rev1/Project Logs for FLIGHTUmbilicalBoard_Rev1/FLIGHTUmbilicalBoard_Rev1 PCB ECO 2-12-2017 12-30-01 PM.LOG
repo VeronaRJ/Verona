@@ -1,0 +1,71 @@
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Component: Designator=C12(0603)
+Added Component: Designator=Css(0603)
+Added Component: Designator=Cvcc(0603)
+Added Component: Designator=PC104(PC-104FOOTPRINT)
+Added Component: Designator=R13(0402)
+Added Component: Designator=R14(0402)
+Added Component: Designator=Rcomp(0402)
+Added Component: Designator=Rfbb(0402)
+Added Component: Designator=Rfbt(0402)
+Added Component: Designator=Rpg(0402)
+Added Component: Designator=Rt(0402)
+Added Pin To Net: NetName=+5V_3 Pin=PIKSI_UARTA-4
+Added Net: Name=+5V_3
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=PIKSI_UARTA-0
+Added Net: Name=GOM_GND_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R14-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R13-2
+Added Net: Name=NetC12_2
+Added Net: Name=NetCboot_1
+Added Net: Name=NetCboot_2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rcomp-1
+Added Net: Name=NetCcomp2_1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Css-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rfbb-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rt-2
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCin_1_1 Pin=R13-1
+Added Net: Name=NetCin_1_1
+Added Pin To Net: NetName=NetCout_1_1 Pin=Rfbt-1
+Added Net: Name=NetCout_1_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_1 Pin=Cvcc-1
+Added Pin To Net: NetName=NetCvcc_1 Pin=Rpg-1
+Added Net: Name=NetCvcc_1
+Added Pin To Net: NetName=NetL1_1 Pin=R14-1
+Added Net: Name=NetL1_1
+Added Net: Name=NetM1_4
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRpg_2 Pin=Rpg-2
+Added Net: Name=NetRpg_2
+Added Pin To Net: NetName=NetRt_1 Pin=Rt-1
+Added Net: Name=NetRt_1
+Added Pin To Net: NetName=UART5_RX_J5 Pin=PIKSI_UARTA-1
+Added Net: Name=UART5_RX_J5
+Added Pin To Net: NetName=UART5_TX_J6 Pin=PIKSI_UARTA-2
+Added Net: Name=UART5_TX_J6
+Added Class: Name=BarrelJack
+Added Class: Name=CDGPS
+Added Class: Name=DCDC
+Added Class: Name=FlightComputer
+Added Class: Name=PC104 Header
+Added Room: Name=BarrelJack
+Added Room: Name=CDGPS
+Added Room: Name=DCDC
+Added Room: Name=FlightComputer
+Added Room: Name=PC104 Header

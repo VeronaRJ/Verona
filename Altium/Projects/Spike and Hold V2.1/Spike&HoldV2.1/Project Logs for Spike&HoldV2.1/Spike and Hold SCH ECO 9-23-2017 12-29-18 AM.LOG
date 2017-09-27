@@ -1,0 +1,4 @@
+Remove Pin=P2-1 From Net=GND1
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1005X55X30ML05T10 New Footprint=CAPC1005X55X30LL05T10
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Comment: Designator=C3 Old Comment=1uF New Comment=1uF 

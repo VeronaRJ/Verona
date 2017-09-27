@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=ANALOGGND Pin=PressSense?-2
+Removed Pin From Net: NetName=NetPressSense?_3 Pin=PressSense?-3
+Removed Pin From Net: NetName=NetPresAmp?_2 Pin=PressSense?-4
+Added Pin To Net: NetName=ANALOGGND Pin=PressSense?-2
+Added Pin To Net: NetName=NetPressSense?_3 Pin=PressSense?-3
+Added Pin To Net: NetName=NetPresAmp?_2 Pin=PressSense?-4
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor1
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor4
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor2

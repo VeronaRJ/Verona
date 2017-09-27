@@ -1,0 +1,218 @@
+# Created by Ultra Librarian Gold 8.1.385 Copyright © 1999-2017
+# Dequeue Server, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "TSOT-23_TS8")
+Pad (Name "1") (Location -45, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -45, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location -45, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location -45, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location 45, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location 45, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location 45, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location 45, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 48, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Arc (Width 0) (Radius 12) (Location 0, 57) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -19.5, 54) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Line (Width 6) (Start -79, -56.38582611) (End -79, 56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -79, 56.38582611) (End -44.5, 56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -44.5, 56.38582611) (End -44.5, 67) (Layer Mechanical15) 
+Line (Width 6) (Start -44.5, 67) (End 44.5, 67) (Layer Mechanical15) 
+Line (Width 6) (Start 44.5, 67) (End 44.5, 56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 79, 56.38582611) (End 44.5, 56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 79, 56.38582611) (End 79, -56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 79, -56.38582611) (End 44.5, -56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 44.5, -56.38582611) (End 44.5, -67) (Layer Mechanical15) 
+Line (Width 6) (Start 44.5, -67) (End -44.5, -67) (Layer Mechanical15) 
+Line (Width 6) (Start -44.5, -67) (End -44.5, -56.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -79, -56.38582611) (End -44.5, -56.38582611) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-79, -56.38582611)
+Point (-79, 56.38582611)
+Point (-44.5, 56.38582611)
+Point (-44.5, 67)
+Point (44.5, 67)
+Point (44.5, 56.38582611)
+Point (79, 56.38582611)
+Point (79, -56.38582611)
+Point (44.5, -56.38582611)
+Point (44.5, -67)
+Point (-44.5, -67)
+Point (-44.5, -56.38582611)
+EndPolygon
+Line (Width 6) (Start -39.5, -62) (End 39.5, -62) (Layer TopOverlay) 
+Line (Width 6) (Start 39.5, 62) (End -39.5, 62) (Layer TopOverlay) 
+Text (Location -55, 99.38582611) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Step (Name TSOT-23_TS8.stp)
+EndFootprint
+
+Footprint (Name "TSOT-23_TS8-M")
+Pad (Name "1") (Location -47, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -47, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location -47, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location -47, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location 47, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location 47, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location 47, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location 47, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 60, 18) (Shape Rectangular) (Layer Top)
+EndPad
+Arc (Width 0) (Radius 12) (Location 0, 57) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -19.5, 54) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Line (Width 6) (Start -97, -67.38582611) (End -97, 67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -97, 67.38582611) (End -54.5, 67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -54.5, 67.38582611) (End -54.5, 77) (Layer Mechanical15) 
+Line (Width 6) (Start -54.5, 77) (End 54.5, 77) (Layer Mechanical15) 
+Line (Width 6) (Start 54.5, 77) (End 54.5, 67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 97, 67.38582611) (End 54.5, 67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 97, 67.38582611) (End 97, -67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 97, -67.38582611) (End 54.5, -67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 54.5, -67.38582611) (End 54.5, -77) (Layer Mechanical15) 
+Line (Width 6) (Start 54.5, -77) (End -54.5, -77) (Layer Mechanical15) 
+Line (Width 6) (Start -54.5, -77) (End -54.5, -67.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -97, -67.38582611) (End -54.5, -67.38582611) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-97, -67.38582611)
+Point (-97, 67.38582611)
+Point (-54.5, 67.38582611)
+Point (-54.5, 77)
+Point (54.5, 77)
+Point (54.5, 67.38582611)
+Point (97, 67.38582611)
+Point (97, -67.38582611)
+Point (54.5, -67.38582611)
+Point (54.5, -77)
+Point (-54.5, -77)
+Point (-54.5, -67.38582611)
+EndPolygon
+Line (Width 6) (Start -39.5, -62) (End 39.5, -62) (Layer TopOverlay) 
+Line (Width 6) (Start 39.5, 62) (End -39.5, 62) (Layer TopOverlay) 
+Text (Location -57, 101.38582611) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Step (Name TSOT-23_TS8-M.stp)
+EndFootprint
+
+Footprint (Name "TSOT-23_TS8-L")
+Pad (Name "1") (Location -43, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -43, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location -43, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location -43, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location 43, -38.3858) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location 43, -12.7953) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location 43, 12.7953) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location 43, 38.3858) (Surface True) (Rotation 0)
+PadShape (Size 36, 14) (Shape Rectangular) (Layer Top)
+EndPad
+Arc (Width 0) (Radius 12) (Location 0, 57) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -19.5, 54) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Line (Width 6) (Start -65, -49.38582611) (End -65, 49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -65, 49.38582611) (End -38.5, 49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -38.5, 49.38582611) (End -38.5, 61) (Layer Mechanical15) 
+Line (Width 6) (Start -38.5, 61) (End 38.5, 61) (Layer Mechanical15) 
+Line (Width 6) (Start 38.5, 61) (End 38.5, 49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 65, 49.38582611) (End 38.5, 49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 65, 49.38582611) (End 65, -49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 65, -49.38582611) (End 38.5, -49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start 38.5, -49.38582611) (End 38.5, -61) (Layer Mechanical15) 
+Line (Width 6) (Start 38.5, -61) (End -38.5, -61) (Layer Mechanical15) 
+Line (Width 6) (Start -38.5, -61) (End -38.5, -49.38582611) (Layer Mechanical15) 
+Line (Width 6) (Start -65, -49.38582611) (End -38.5, -49.38582611) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-65, -49.38582611)
+Point (-65, 49.38582611)
+Point (-38.5, 49.38582611)
+Point (-38.5, 61)
+Point (38.5, 61)
+Point (38.5, 49.38582611)
+Point (65, 49.38582611)
+Point (65, -49.38582611)
+Point (38.5, -49.38582611)
+Point (38.5, -61)
+Point (-38.5, -61)
+Point (-38.5, -49.38582611)
+EndPolygon
+Line (Width 6) (Start -39.5, -62) (End 39.5, -62) (Layer TopOverlay) 
+Line (Width 6) (Start 39.5, 62) (End -39.5, 62) (Layer TopOverlay) 
+Text (Location -53, 97.38582611) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "*")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "PN")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "DEV")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "VAL")
+Text (Location 0, 0) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "TOL")
+Step (Name TSOT-23_TS8-L.stp)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "LT3092ETS8#TRMPB") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 1900, -300) (Rotation 0) (PinType Input) (Length 300) (Width 0) (Designator Visible "5") (Name Visible "SET") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 1900, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "6") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 1900, -100) (Rotation 0) (PinType Input) (Length 300) (Width 0) (Designator Visible "7") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 1900, 0) (Rotation 0) (PinType Input) (Length 300) (Width 0) (Designator Visible "8") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Rectangle (Width 5) (Start 300, 200) (End 1900, -500) (Part 1)
+Parameter (Name "Vendor") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Linear Technology") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "LT3092ETS8#TRMPBF") (Part 1)
+Parameter (Name "Value") (Location 1100, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Value") (Part 1)
+Parameter (Name "Type") (Location 1100, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Parameter (Name "RefDes") (Location 1100, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Footprint (Name "TSOT-23_TS8")
+EndComponent
+EndComponents

@@ -1,0 +1,16 @@
+"Bill of Material for "
+"On 9/23/2017 at 12:48:52 AM"
+
+"Comment","Pattern","Quantity","Components"
+
+"0.01 uF","CAPC1608X87X35LL15T15","1","C2",""
+"1N4757A","FAIR-DO-41-2_V","1","D3","Zener Diode, 51V, 1W, 5%, -65 to 200 degC, 2-Pin DO-41, Body 2.72 x 5.2 mm, RoHS"
+"1uF ","CAPC1206(3216)110_L","1","C3","CAP 1uF 50V ±10% 1206 (3216 Metric) Thickness 1.1mm SMD"
+"22-27-2041","MOLX-22-27-2041_V","2","P1, P2","Male Header, Pitch 2.54 mm, 1 x 4 Position, Height 11.7 mm, Tail Length 3.56 mm, RoHS, Bulk"
+"680 pF","CAPC1005X55X30LL05T10","1","C1",""
+"Diode 1N4005","DO-41","3","D1, D2, D4","1 Amp General Purpose Rectifier"
+"MJD122T4G","ONSC-DPAK-3-369C-01_V","1","Q4","Complementary Darlington Power Transistor, 3-Pin DPAK, Pb-Free, Tape and Reel"
+"MJD127T4G","ONSC-DPAK-3-369C-01_V","1","Q3","Complementary Darlington Power Transistor, 3-Pin DPAK, Pb-Free, Tape and Reel"
+"MMBTA42LT1G","ONSC-SOT-23-3-318-08_V","2","Q1, Q2","High Voltage Transistor, NPN Silicon, 3-Pin SOT-23, Pb-Free, Tape and Reel"
+"NE555DR","D0008A_L","1","U1","Precision Timer, 4.5 to 16 V, 0 to 70 degC, 8-Pin SOIC (D8), Green (RoHS & no Sb/Br), Tape and Reel"
+"Res1","AXIAL-0.3","7","R1, R2, R3, R4, R5, R6, R7","Resistor"

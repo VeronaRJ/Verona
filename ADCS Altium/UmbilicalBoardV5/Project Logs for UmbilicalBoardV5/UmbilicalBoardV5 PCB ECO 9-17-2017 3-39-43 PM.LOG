@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GOM_GND_1 Pin=FlightSwitch-1
+Removed Member From Class: ClassName=TopV5_StructureClass Member=Docking_StructureClass
+Removed Member From Class: ClassName=TopV5_StructureClass Member=PIKSI_UARTA_StructureClass
+Removed Member From Class: ClassName=TopV5_StructureClass Member=Switch_StructureClass
+Added Component: Designator=5v to 24v(U3V50F24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ADCS Connector(Molex Picoblade 5 Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B1(Barrel_Jack)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-2
+Added Pin To Net: NetName=5V_3 Pin=5v to 24v-3
+Added Pin To Net: NetName=5V_3 Pin=5v to 24v-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-5
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-8
+Added Pin To Net: NetName=GOM_GND_1 Pin=5v to 24v-9
+Added Pin To Net: NetName=RX3 Pin=ADCS Connector-1
+Added Pin To Net: NetName=TX3 Pin=ADCS Connector-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=ADCS Connector-3
+Added Pin To Net: NetName=5V_3 Pin=ADCS Connector-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-1
+Added Pin To Net: NetName=BAT_CHARGE Pin=B1-2
+Added Member To Class: ClassName=U_24V Step Up Voltage Regulator U3V50F24 Member=Component 5v to 24v U3V50F24, 24V Step Up Regulator, Pololu
+Added Member To Class: ClassName=U_ADCS Member=Component ADCS Connector PIKSI_UART Connector
+Added Member To Class: ClassName=Barrel Jack Member=Component B1 Barrel_Jack
+Added Room: Name=U_24V Step Up Voltage Regulator U3V50F24
+Added Room: Name=U_ADCS
+Added Room: Name=U_GroundtoFrame

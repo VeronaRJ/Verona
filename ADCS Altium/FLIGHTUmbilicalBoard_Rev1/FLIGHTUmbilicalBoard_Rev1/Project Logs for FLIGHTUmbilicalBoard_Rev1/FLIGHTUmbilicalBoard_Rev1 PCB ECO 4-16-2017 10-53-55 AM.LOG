@@ -1,0 +1,180 @@
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Component: Designator=C12(0603)
+Added Component: Designator=Css(0603)
+Added Component: Designator=Cvcc(0603)
+Added Component: Designator=D1(SMC)
+Added Component: Designator=D2(SMC)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=D4(SMC)
+Added Component: Designator=D5(SMC)
+Added Component: Designator=D6(SMC)
+Added Component: Designator=PC104(PC-104FOOTPRINT)
+Added Component: Designator=Q1(TO-226-AA)
+Added Component: Designator=Q2(TO-226-AA)
+Added Component: Designator=Q3(TO-226-AA)
+Added Component: Designator=Q4(TO-226-AA)
+Added Component: Designator=Q5(TO-226-AA)
+Added Component: Designator=Q6(TO-226-AA)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R13(0402)
+Added Component: Designator=R14(0402)
+Added Component: Designator=Rcomp(0402)
+Added Component: Designator=Rfbb(0402)
+Added Component: Designator=Rfbt(0402)
+Added Component: Designator=Rpg(0402)
+Added Component: Designator=Rt(0402)
+Added Component: Designator=SolConn(T2M-107-01-X-D-RA-WT)
+Added Pin To Net: NetName=+5V_3 Pin=PIKSI_UARTA-4
+Added Net: Name=+5V_3
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D1-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D2-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D3-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D4-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D5-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=D6-2
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-1
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-3
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-5
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-7
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-9
+Added Pin To Net: NetName=+12V_1_JUMP10 Pin=SolConn-11
+Added Net: Name=+12V_1_JUMP10
+Added Pin To Net: NetName=FB1 Pin=D1-1
+Added Pin To Net: NetName=FB1 Pin=Q1-1
+Added Pin To Net: NetName=FB1 Pin=SolConn-2
+Added Net: Name=FB1
+Added Pin To Net: NetName=FB2 Pin=D2-1
+Added Pin To Net: NetName=FB2 Pin=Q2-1
+Added Pin To Net: NetName=FB2 Pin=SolConn-4
+Added Net: Name=FB2
+Added Pin To Net: NetName=FB3 Pin=D3-1
+Added Pin To Net: NetName=FB3 Pin=Q3-1
+Added Pin To Net: NetName=FB3 Pin=SolConn-6
+Added Net: Name=FB3
+Added Pin To Net: NetName=FB4 Pin=D4-1
+Added Pin To Net: NetName=FB4 Pin=Q4-1
+Added Pin To Net: NetName=FB4 Pin=SolConn-8
+Added Net: Name=FB4
+Added Pin To Net: NetName=FB5 Pin=D5-1
+Added Pin To Net: NetName=FB5 Pin=Q5-1
+Added Pin To Net: NetName=FB5 Pin=SolConn-10
+Added Net: Name=FB5
+Added Pin To Net: NetName=FB6 Pin=D6-1
+Added Pin To Net: NetName=FB6 Pin=Q6-1
+Added Pin To Net: NetName=FB6 Pin=SolConn-12
+Added Net: Name=FB6
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=B1-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=PIKSI_UARTA-0
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q1-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q2-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q3-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q4-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q5-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=Q6-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=R7-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R8-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R9-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R10-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R11-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=R12-1
+Added Net: Name=GOM_GND_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R14-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R13-2
+Added Net: Name=NetC12_2
+Added Net: Name=NetCboot_1
+Added Net: Name=NetCboot_2
+Added Pin To Net: NetName=NetCcomp2_1 Pin=Rcomp-1
+Added Net: Name=NetCcomp2_1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Css-1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Cvcc-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rfbb-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rt-2
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcomp_1 Pin=Rcomp-2
+Added Net: Name=NetCcomp_1
+Added Pin To Net: NetName=NetCin_1_1 Pin=R13-1
+Added Net: Name=NetCin_1_1
+Added Pin To Net: NetName=NetCout_1_1 Pin=Rfbt-1
+Added Net: Name=NetCout_1_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetCvcc_1 Pin=Cvcc-1
+Added Pin To Net: NetName=NetCvcc_1 Pin=Rpg-1
+Added Net: Name=NetCvcc_1
+Added Pin To Net: NetName=NetL1_1 Pin=R14-1
+Added Net: Name=NetL1_1
+Added Net: Name=NetM1_4
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R4-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R6-2
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R7-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R8-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R9-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R10-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R11-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R12-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbb-1
+Added Pin To Net: NetName=NetRfbb_1 Pin=Rfbt-2
+Added Net: Name=NetRfbb_1
+Added Pin To Net: NetName=NetRpg_2 Pin=Rpg-2
+Added Net: Name=NetRpg_2
+Added Pin To Net: NetName=NetRt_1 Pin=Rt-1
+Added Net: Name=NetRt_1
+Added Pin To Net: NetName=UART5_RX_J5 Pin=PIKSI_UARTA-1
+Added Net: Name=UART5_RX_J5
+Added Pin To Net: NetName=UART5_TX_J6 Pin=PIKSI_UARTA-2
+Added Net: Name=UART5_TX_J6
+Added Class: Name=BarrelJack
+Added Class: Name=CDGPS
+Added Class: Name=DCDC
+Added Class: Name=FlightComputer
+Added Class: Name=PC104 Header
+Added Class: Name=Propulsion
+Added Room: Name=BarrelJack
+Added Room: Name=CDGPS
+Added Room: Name=DCDC
+Added Room: Name=FlightComputer
+Added Room: Name=PC104 Header
+Added Room: Name=Propulsion

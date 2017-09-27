@@ -1,0 +1,6 @@
+Change Component Comment : Designator=DCDCPowerConn Old Comment=172310-1103 New Comment=DCDCPowerConn
+Added Pin To Net: NetName=GOM_GND_1 Pin=DCDCPowerConn-1
+Added Pin To Net: NetName=+12V_1_JUMP7 Pin=DCDCPowerConn-2
+Added Pin To Net: NetName=V_BAT_1 Pin=DCDCPowerConn-3
+Added Class: Name=DCDCPowerConn
+Added Class: Name=U_GroundtoFrame

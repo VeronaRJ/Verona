@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:22:02 PM On 6/20/2016
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [UmbilicalBoardV4.PcbDoc]
+   Generated File[Pick Place for UmbilicalBoardV4.txt]
+   Generated File[Pick Place for UmbilicalBoardV4.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:22:04 PM On 6/20/2016

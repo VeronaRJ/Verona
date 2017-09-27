@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R13-2
+Removed Pin From Net: NetName=NetC12_1 Pin=R14-2
+Change Component Description : Designator=R13 Old Description=Imported New Description=CRCW040210R0FKED
+Change Component Description : Designator=R14 Old Description=Imported New Description=CRCW040210R0FKED
+Change Component Library : Designator=R13 Old Library=2016-03-26_18-23-46.SchLib New Library=TI WEBENCH
+Change Component Library : Designator=R14 Old Library=2016-03-26_18-23-46.SchLib New Library=TI WEBENCH
+Added Component: Designator=*(PC-104FOOTPRINT)
+Added Component: Designator=PC104(PC-104FOOTPRINT)
+Added Pin To Net: NetName=NetC12_1 Pin=R13-2
+Added Pin To Net: NetName=NetC12_2 Pin=R14-2
+Added Net: Name=0
+Added Pin To Net: NetName=NetCin_1 Pin=R13-1
+Added Net: Name=NetCin_1
+Added Net: Name=NetCout_1
+Added Net: Name=NetCss_1
+Added Pin To Net: NetName=NetL1_2 Pin=R14-1
+Added Net: Name=NetL1_2
+Added Net: Name=NetM2_1
+Added Net: Name=NetM2_5
+Added Net: Name=NetR19_1
+Added Net: Name=NetRt_2
+Added Class: Name=BarrelJack
+Added Class: Name=CDGPS
+Added Class: Name=DCDC
+Added Class: Name=FlightComputer
+Added Class: Name=PC104 Header
+Added Room: Name=BarrelJack
+Added Room: Name=CDGPS
+Added Room: Name=DCDC
+Added Room: Name=FlightComputer
+Added Room: Name=PC104 Header
+Added Room: Name=Propulsion

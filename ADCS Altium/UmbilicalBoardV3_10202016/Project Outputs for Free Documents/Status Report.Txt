@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UmbilicalBoardV4.PcbDoc]
+   Generated File[UmbilicalBoardV4.TXT]
+   Generated File[UmbilicalBoardV4-RectHoles.TXT]
+   Generated File[UmbilicalBoardV4.DRL]
+   Generated File[UmbilicalBoardV4-BoardEdgeRout.TXT]
+   Generated File[UmbilicalBoardV4.LDP]
+   Generated File[UmbilicalBoardV4.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 10:33:41 PM On 6/23/2016
