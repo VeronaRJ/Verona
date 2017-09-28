@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Spike and Hold PCB V2.2.PcbDoc   9/28/2017  2:43:48 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Spike and Hold PCB V2.2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             10        PTH        3.10inch (78.67mm)
+T2      33mil (0.85mm)                                            Round             14        PTH        4.84inch (122.87mm)
+T3      45mil (1.15mm)                                            Round             2         PTH        0.35inch (9.00mm)
+T4      47mil (1.19mm)                                            Round             8         PTH        1.78inch (45.25mm)
+T5      47mil (1.2mm)                                             Round             6         PTH        2.11inch (53.54mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              40
+
+Total Processing Time (hh:mm:ss) : 00:00:00
