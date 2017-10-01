@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=Teensy2_SDA Pin=ADCS?-2
+Added Pin To Net: NetName=Teensy2_SCL Pin=ADCS?-3
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor4
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor2
+Added Member To Class: ClassName=AdapterBoard Member=Component T? TempSensor1
+Added Room: Name=AdapterBoard

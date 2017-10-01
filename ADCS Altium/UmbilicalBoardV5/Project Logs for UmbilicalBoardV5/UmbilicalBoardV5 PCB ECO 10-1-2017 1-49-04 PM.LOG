@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=TempMuxA1 Pin=FC?-12
+Added Pin To Net: NetName=TempMuxEN Pin=FC?-13
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000

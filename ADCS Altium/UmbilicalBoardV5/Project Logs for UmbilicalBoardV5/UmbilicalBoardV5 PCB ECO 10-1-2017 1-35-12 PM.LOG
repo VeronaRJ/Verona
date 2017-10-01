@@ -1,0 +1,7 @@
+Added Component: Designator=T2(RemoverBeforeFlight Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=mux2 Pin=T2-1
+Added Pin To Net: NetName=DGND Pin=T2-2
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component T2 TempSensor1

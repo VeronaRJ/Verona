@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=TempMuxRead Pin=Mux?-3
+Removed Pin From Net: NetName=DGND Pin=Mux?-8
+Removed Pin From Net: NetName=TempMux2 Pin=Mux?-10
+Removed Pin From Net: NetName=TempMux1 Pin=Mux?-11
+Removed Pin From Net: NetName=mux4 Pin=Mux?-12
+Removed Pin From Net: NetName=mux1 Pin=Mux?-13
+Removed Pin From Net: NetName=mux2 Pin=Mux?-14
+Removed Pin From Net: NetName=mux3 Pin=Mux?-15
+Removed Pin From Net: NetName=5_mux Pin=Mux?-16
+Removed Pin From Net: NetName=mux2 Pin=T?-1
+Removed Pin From Net: NetName=DGND Pin=T?-2
+Removed Member From Class: ClassName=AdapterBoard Member=Mux?
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=T? NewDesignator=T3
+Change Component Designator: OldDesignator=T? NewDesignator=T4
+Added Component: Designator=Mux(21-0061L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX4634EUB+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Maxim Integrated Products"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=mux1 Pin=Mux-2
+Added Pin To Net: NetName=DGND Pin=Mux-3
+Added Pin To Net: NetName=mux3 Pin=Mux-4
+Added Pin To Net: NetName=5V_TempSensors Pin=Mux-6
+Added Pin To Net: NetName=mux4 Pin=Mux-7
+Added Pin To Net: NetName=TempMuxRead Pin=Mux-8
+Added Pin To Net: NetName=mux2 Pin=Mux-9
+Added Pin To Net: NetName=mux1 Pin=PC-?-H2_1
+Added Pin To Net: NetName=mux2 Pin=PC-?-H2_3
+Added Pin To Net: NetName=mux3 Pin=R3-2
+Added Pin To Net: NetName=mux4 Pin=R4-2
+Added Pin To Net: NetName=mux3 Pin=T3-1
+Added Pin To Net: NetName=mux4 Pin=T4-1
+Added Pin To Net: NetName=TempMuxA0 Pin=Mux-1
+Added Net: Name=TempMuxA0
+Added Pin To Net: NetName=TempMuxA1 Pin=Mux-10
+Added Net: Name=TempMuxA1
+Added Pin To Net: NetName=TempMuxEN Pin=Mux-5
+Added Net: Name=TempMuxEN
+Added Member To Class: ClassName=AdapterBoard Member=Component Mux MAX4634EUB+T
+Added Member To Class: ClassName=AdapterBoard Member=Component R1 Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R2 Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R4 Resistor
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component T4 TempSensor2
+Added Room: Name=AdapterBoard

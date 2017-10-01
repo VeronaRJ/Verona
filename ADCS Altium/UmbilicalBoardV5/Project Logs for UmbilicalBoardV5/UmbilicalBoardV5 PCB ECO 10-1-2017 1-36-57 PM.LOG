@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=5V_Piksi Pin=PC-?-H2_27
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Member To Class: ClassName=AdapterBoard Member=Component R? 1000
+Added Room: Name=AdapterBoard
