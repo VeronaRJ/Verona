@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : L293D.LibPkg
+
+Section : C:\Users\CADputer-002\Documents\Verona\ADCS Altium\UmbilicalBoardV5\L293D.lia
+    Section : PCB Library - L293D.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token L293D On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 302
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - L293D.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - L293D.SchLib
+        EndSection
+    EndSection
+EndSection
