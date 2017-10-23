@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=V_BAT_1 New Net Name=NetPC-104_H2_46
+Added Pin To Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Added Net: Name=V_BAT_1

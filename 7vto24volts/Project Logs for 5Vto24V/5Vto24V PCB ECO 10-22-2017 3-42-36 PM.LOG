@@ -1,0 +1,25 @@
+Added Component: Designator=7Vto24V_1(7Vto24V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=7Vto24V_2(7Vto24V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V_1-1
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V_1-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_1-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_1-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_1-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_1-4
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V_2-1
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V_2-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_2-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_2-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_2-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V_2-4
+Added Pin To Net: NetName=Net7Vto24V_1_2 Pin=7Vto24V_1-2
+Added Pin To Net: NetName=Net7Vto24V_1_2 Pin=7Vto24V_1-2
+Added Net: Name=Net7Vto24V_1_2
+Added Pin To Net: NetName=Net7Vto24V_2_2 Pin=7Vto24V_2-2
+Added Pin To Net: NetName=Net7Vto24V_2_2 Pin=7Vto24V_2-2
+Added Net: Name=Net7Vto24V_2_2
+Added Member To Class: ClassName=TopV4 Member=Component 7Vto24V_1 7Vto24V
+Added Member To Class: ClassName=TopV4 Member=Component 7Vto24V_2 7Vto24V
+Added Member To Class: ClassName=TopV4 Member=Component PC-? PC-104

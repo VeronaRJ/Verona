@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=V_BAT_1 Pin=5Vto24V_3-1
+Removed Pin From Net: NetName=GOM_GND_1 Pin=5Vto24V_3-2
+Removed Member From Class: ClassName=TopV4 Member=5Vto24V_3
+Change Component Comment : Designator=5Vto24V_1 Old Comment=5Vto24V New Comment=7Vto24V
+Change Component Comment : Designator=5Vto24V_2 Old Comment=5Vto24V New Comment=7Vto24V
+Change Component Designator: OldDesignator=5Vto24V_1 NewDesignator=7Vto24V_1
+Change Component Designator: OldDesignator=5Vto24V_2 NewDesignator=7Vto24V_2
+Change Component Designator: OldDesignator=PC-104 NewDesignator=PC-?
+Change Component Description : Designator=7Vto24V_2 Old Description=5Vto24V New Description=7Vto24V
+Change Net Name : Old Net Name=Net5Vto24V_1_3 New Net Name=Net7Vto24V_1_3
+Change Net Name : Old Net Name=Net5Vto24V_2_3 New Net Name=Net7Vto24V_2_3
+Added Room: Name=TopV4

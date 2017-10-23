@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Added Pin To Net: NetName=NetPC-104_H2_45 Pin=PC-104-H2_45
+Added Net: Name=NetPC-104_H2_45

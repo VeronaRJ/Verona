@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=V_BAT_1 Pin=PC-104-H2_45
+Added Component: Designator=5Vto24V-4(5Vto24V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=5Vto24V-4-2
+Added Pin To Net: NetName=Net5Vto24V-3_3 Pin=5Vto24V-4-3
+Change Net Name : Old Net Name=+5V_7 New Net Name=NetPC-104_H1_51
+Added Pin To Net: NetName=NetPC-104_H2_45 Pin=PC-104-H2_45
+Added Net: Name=NetPC-104_H2_45
+Added Member To Class: ClassName=Voltage Regulators 5V to 24V (x3) Member=Component 5Vto24V-4 5Vto24V
